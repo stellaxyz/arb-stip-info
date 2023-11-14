@@ -11,6 +11,7 @@ Schema:
 ```typescript
 [ 
   {
+    "period": number,
     "startTimestamp": number,
     "endTimestamp": number,
     "amount": number,
@@ -29,6 +30,7 @@ Schema:
 ```typescript
 [ 
   {
+    "period": number,
     "startTimestamp": number,
     "endTimestamp": number,
     "amount": number
