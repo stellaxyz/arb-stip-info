@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "period": 1,
+    "startTimestamp": 1698912000,
+    "endTimestamp": 1700121600,
+    "amount": 7115.40
+  }
+]
