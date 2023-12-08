@@ -103,5 +103,12 @@
     "endTimestamp": 1702540800,
     "amount": 1100,
     "poolAddress": "0x3251f402cc06b33e742f08e1adbe0d2e4c1ea2fa"
+  },
+  {
+    "period": 3,
+    "startTimestamp": 1702022400,
+    "endTimestamp": 1702540800,
+    "amount": 130,
+    "poolAddress": "0x8e57143d14bae132210cfeec58d0c48875f7d415"
   }
 ]
