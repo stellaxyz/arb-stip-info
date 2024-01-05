@@ -16,5 +16,11 @@
     "startTimestamp": 1701331200,
     "endTimestamp": 1702540800,
     "amount": 8724.58
+  },
+  {
+    "period": 4,
+    "startTimestamp": 1702540800,
+    "endTimestamp": 1703750400,
+    "amount": 5423.06
   }
 ]
