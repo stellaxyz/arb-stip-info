@@ -327,5 +327,54 @@
     "endTimestamp": 1707379200,
     "amount": 100,
     "poolAddress": "0x8e57143d14bae132210cfeec58d0c48875f7d415"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 1000,
+    "poolAddress": "0xab416e57ec74e87295b8a1507745a954b0bb9f02"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 1000,
+    "poolAddress": "0x5ecb93b3ef882bf42fee65541942d50a7dab4b33"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 8000,
+    "poolAddress": "0x092d4bee60b9f8904918ba7b0341c0b45f16fb55"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 70,
+    "poolAddress": "0x17cdd7f68cf2146665f31b224815e53f4f2737c1"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 100,
+    "poolAddress": "0x97a57663491ba1f0464d587b4b01ed58e49e4109"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 900,
+    "poolAddress": "0x3251f402cc06b33e742f08e1adbe0d2e4c1ea2fa"
+  },
+  {
+    "period": 8,
+    "startTimestamp": 1707379200,
+    "endTimestamp": 1708588800,
+    "amount": 150,
+    "poolAddress": "0x36569fbc5a9d4c59d71e81d46db24256a09d1ad6"
   }
 ]
