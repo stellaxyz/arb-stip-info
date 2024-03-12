@@ -46,5 +46,11 @@
     "startTimestamp": 1707379200,
     "endTimestamp": 1708588800,
     "amount": 980.33
+  },
+  {
+    "period": 9,
+    "startTimestamp": 1708588800,
+    "endTimestamp": 1709193600,
+    "amount": 4099.01
   }
 ]
